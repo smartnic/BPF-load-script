@@ -14,6 +14,14 @@ The 2nd command is an example of loading an unsafe bpf program. In this case, th
 
 **Based on the .c file we are attempting to load, other bpf files may need to be included in this directory. For the two example c files in this repsitory the current bpf files seem to be sufficient.**
 
+**Information about machine where this code executed:**
+
+OS Name: Ubuntu 20.04.3 LTS
+
+OS Type: 64-bit
+
+Kernel release version: 5.11.0-44-generic
+
 
 
 
